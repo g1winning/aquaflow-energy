@@ -45,14 +45,14 @@
 
   /* ---------- markets: cycles on its own, pauses on hover/focus ---------- */
   /* slide copy lives in #mk-src in index.html (so it is real page content); read it here */
-  const M=Array.from(document.querySelectorAll('#mk-src article')).map(a=>{const l=a.querySelector('a');return{k:a.querySelector('.k').textContent,h:a.querySelector('h3').textContent,p:a.querySelector('p:not(.k)').textContent,a:[l.textContent,l.getAttribute('href')]}});
+  const M=Array.from(document.querySelectorAll('#mk-src article')).map(a=>{const l=a.querySelector('a');return{k:a.querySelector('.k').textContent,h:a.querySelector('h3').textContent,p:a.querySelector('p:not(.k)').textContent,a:l?[l.textContent,l.getAttribute('href')]:null}});
   const mk=$('mk'),bgs=mk.querySelectorAll('.bg'),prog=$('mk-prog').children;
   const PERIOD=7000;let mi=0,timer=0;
   function showM(i){
     mi=(i+M.length)%M.length;const m=M[mi];
     bgs.forEach((b,j)=>b.classList.toggle('on',j===mi));
     $('mk-n').textContent=String(mi+1).padStart(2,'0')+' / 04';$('mk-k').textContent=m.k;$('mk-h').textContent=m.h;$('mk-p').textContent=m.p;
-    $('mk-a').href=m.a[1];$('mk-a').querySelector('span').textContent=m.a[0];
+    $('mk-a').style.display=m.a?'':'none';if(m.a){$('mk-a').href=m.a[1];$('mk-a').querySelector('span').textContent=m.a[0];}
     Array.from(prog).forEach((p,j)=>{p.classList.remove('run','done');if(j<mi)p.classList.add('done');if(j===mi){void p.offsetWidth;p.classList.add('run')}});
     restart();
   }

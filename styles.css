@@ -246,17 +246,10 @@ footer{position:relative}
 .rep .tabs button:focus-visible div{outline:1px solid var(--foam);outline-offset:3px}
 .signoff{margin-top:clamp(40px,5vw,60px);border-top:1px solid var(--line);padding-top:24px;display:grid;grid-template-columns:.8fr 1.2fr;gap:20px;align-items:start}
 .signoff .intro p{color:var(--mist);font-size:14px;max-width:40ch;margin-top:8px}
-.signoff .logos{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
-.signoff .lg{display:grid;gap:8px;align-content:start}
-.signoff .lg .box{height:124px;display:grid;place-items:center;text-align:center;padding:12px;background:rgba(33,65,86,.5);font:500 13px/1.2 var(--display);color:var(--mist)}
-.signoff .logos.three{grid-template-columns:repeat(3,minmax(0,1fr))}
-.signoff .lg .box img{max-height:84px;max-width:80%;width:auto;object-fit:contain}
-.signoff .lg .box.face{background:center 20%/cover;padding:0}
-#lg-afea img{max-height:96px}
-#lg-uom img{max-height:84px}
-.signoff .lg b{font:500 14px var(--display)}
-.signoff .lg small{color:var(--mist);font-size:12.5px}
-@media (max-width:860px){.rep .top,.signoff{grid-template-columns:1fr}.rep blockquote{text-align:left;justify-self:start}.rep .q{grid-template-columns:1fr}.signoff .logos,.signoff .logos.three{grid-template-columns:1fr 1fr}}
+.signoff .stmt{display:grid;gap:12px}
+.signoff .stmt p{color:var(--mist);font-size:14px;max-width:64ch}
+.signoff .stmt p:first-child{color:var(--foam);font:500 17px/1.4 var(--display)}
+@media (max-width:860px){.rep .top,.signoff{grid-template-columns:1fr}.rep blockquote{text-align:left;justify-self:start}.rep .q{grid-template-columns:1fr}}
 
 /* economics */
 .eco .framebox{display:grid;grid-template-columns:auto 1fr;gap:clamp(20px,3vw,40px);padding:clamp(24px,3vw,40px)}
