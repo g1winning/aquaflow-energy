@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1684 1191" width="1684" height="1191" style="color:#A9C5DB">
+<text x="72" y="104" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="41" fill="currentColor">Design equations and the ten test speeds</text>
+<rect x="70" y="150" width="1544" height="955" fill="none" stroke="currentColor" stroke-width="1.6"/>
+<line x1="70" y1="206" x2="1614" y2="206" stroke="currentColor" stroke-width="1.4"/>
+<line x1="70" y1="950" x2="1614" y2="950" stroke="currentColor" stroke-width="1.4"/>
+<text x="104" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">17</text>
+<text x="196" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">Hydrokinetic Power – Working Equations and Test Matrix</text>
+<text x="1150" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">REV B</text>
+<text x="1330" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">AQUA FLOW ENERGY</text>
+<text x="1612" y="1088" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="15" font-weight="normal" text-anchor="end" fill="currentColor">INDICATIVE ARTIST'S ILLUSTRATION – NOT TO SCALE</text>
+<text x="1612" y="1064" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="currentColor">Dimensions to be confirmed by survey and detailed design</text>
+<text x="110" y="270" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="currentColor">POWER IN A MOVING FLUID</text>
+<text x="110" y="316" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="34" font-weight="normal" text-anchor="start" fill="currentColor">P = ½ · ρ · A · U³ · Cp</text>
+<text x="110" y="346" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="currentColor">P  power at the rotor, W       ρ  fluid density, kg/m³       A  swept area, m²       U  flow speed, m/s       Cp  power coefficient</text>
+<text x="110" y="392" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="13" font-weight="normal" text-anchor="start" fill="currentColor">Betz limit:   Cp,max = 16 ⁄ 27 = 0.593          AFE design value:  Cp = 0.35 (shrouded 0.35–0.45, Darrieus 0.20–0.35)</text>
+<text x="110" y="440" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="currentColor">DENSITY RATIO</text>
+<text x="110" y="482" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="15" font-weight="normal" text-anchor="start" fill="currentColor">ρ sea ⁄ ρ air  =  1 025 ⁄ 1.225  ≈  837        ⇒ equal power per m² at   U water = U wind ÷ ∛837 ≈ U wind ÷ 9.4</text>
+<text x="110" y="506" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="currentColor">A 12 m/s wind and a 1.3 m/s current carry about the same power per square metre.</text>
+<text x="110" y="554" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="currentColor">ROTOR SIZE FOR A TARGET OUTPUT</text>
+<text x="110" y="594" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="15" font-weight="normal" text-anchor="start" fill="currentColor">A = P ⁄ (½ · ρ · U³ · Cp)          D = 2 · √(A ⁄ π)          e.g. 100 kW at 2.5 m/s:  A = 35.7 m²,  D = 6.7 m</text>
+<text x="110" y="640" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="currentColor">TIP-SPEED RATIO AND SHAFT SPEED</text>
+<text x="110" y="680" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="15" font-weight="normal" text-anchor="start" fill="currentColor">λ = ω · R ⁄ U          n = 60 · λ · U ⁄ (2 · π · R)          λ 1.5–2.5 for slow spirals,  4–6 for tri-blade rotors  →  30–60 rpm at the hub</text>
+<text x="110" y="726" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="currentColor">SITE SPEED BY DRIFT</text>
+<text x="110" y="764" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="15" font-weight="normal" text-anchor="start" fill="currentColor">U ≈ drift distance ⁄ time:   100 m in 60 s = 1.67 m/s ≈ 3.2 kn         1 kn = 0.514 m/s</text>
+<text x="1010" y="270" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="currentColor">TEN TEST SPEEDS – POWER PER m² OF ROTOR (ρ 1 025, Cp 0.35)</text>
+<text x="1010" y="298" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="currentColor">U (m/s)</text>
+<text x="1120" y="298" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="currentColor">knots</text>
+<text x="1210" y="298" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="currentColor">kW/m²</text>
+<text x="1310" y="298" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="currentColor">D for 100 kW</text>
+<text x="1450" y="298" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="currentColor">vs wind 12 m/s</text>
+<line x1="1010.0" y1="304.0" x2="1570.0" y2="304.0" stroke="currentColor" stroke-width="0.8"/>
+<text x="1010" y="326" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">0.5</text>
+<text x="1120" y="326" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">1.0</text>
+<text x="1210" y="326" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">0.02</text>
+<text x="1310" y="326" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">75.4 m</text>
+<text x="1450" y="326" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">0.06 ×</text>
+<text x="1010" y="348" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">1.0</text>
+<text x="1120" y="348" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">1.9</text>
+<text x="1210" y="348" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">0.18</text>
+<text x="1310" y="348" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">26.6 m</text>
+<text x="1450" y="348" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">0.48 ×</text>
+<text x="1010" y="370" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">1.5</text>
+<text x="1120" y="370" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">2.9</text>
+<text x="1210" y="370" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">0.61</text>
+<text x="1310" y="370" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">14.5 m</text>
+<text x="1450" y="370" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">1.63 ×</text>
+<text x="1010" y="392" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">2.0</text>
+<text x="1120" y="392" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">3.9</text>
+<text x="1210" y="392" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">1.44</text>
+<text x="1310" y="392" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">9.4 m</text>
+<text x="1450" y="392" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">3.87 ×</text>
+<text x="1010" y="414" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">2.5</text>
+<text x="1120" y="414" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">4.9</text>
+<text x="1210" y="414" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">2.80</text>
+<text x="1310" y="414" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">6.7 m</text>
+<text x="1450" y="414" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">7.57 ×</text>
+<text x="1010" y="436" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">3.0</text>
+<text x="1120" y="436" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">5.8</text>
+<text x="1210" y="436" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">4.84</text>
+<text x="1310" y="436" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">5.1 m</text>
+<text x="1450" y="436" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">13.07 ×</text>
+<text x="1010" y="458" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">3.5</text>
+<text x="1120" y="458" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">6.8</text>
+<text x="1210" y="458" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">7.69</text>
+<text x="1310" y="458" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">4.1 m</text>
+<text x="1450" y="458" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">20.76 ×</text>
+<text x="1010" y="480" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">4.0</text>
+<text x="1120" y="480" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">7.8</text>
+<text x="1210" y="480" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">11.48</text>
+<text x="1310" y="480" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">3.3 m</text>
+<text x="1450" y="480" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">30.99 ×</text>
+<text x="1010" y="502" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">4.5</text>
+<text x="1120" y="502" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">8.8</text>
+<text x="1210" y="502" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">16.35</text>
+<text x="1310" y="502" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">2.8 m</text>
+<text x="1450" y="502" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">44.12 ×</text>
+<text x="1010" y="524" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">5.0</text>
+<text x="1120" y="524" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">9.7</text>
+<text x="1210" y="524" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">22.42</text>
+<text x="1310" y="524" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">2.4 m</text>
+<text x="1450" y="524" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">60.53 ×</text>
+<line x1="1010.0" y1="532.0" x2="1570.0" y2="532.0" stroke="currentColor" stroke-width="0.8"/>
+<rect x="1010.0" y="560.0" width="560.0" height="300.0" fill="none" stroke="currentColor" stroke-width="0.9"/>
+<text x="1010" y="552" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="currentColor">kW/m² against U (cubic)</text>
+<path d="M1010.0,859.7 L1015.6,859.6 L1021.2,859.5 L1026.8,859.4 L1032.4,859.2 L1038.0,859.1 L1043.6,858.9 L1049.2,858.7 L1054.8,858.5 L1060.4,858.2 L1066.0,857.9 L1071.6,857.6 L1077.2,857.3 L1082.8,856.9 L1088.4,856.5 L1094.0,856.1 L1099.6,855.6 L1105.2,855.1 L1110.8,854.6 L1116.4,854.0 L1122.0,853.4 L1127.6,852.8 L1133.2,852.1 L1138.8,851.3 L1144.4,850.5 L1150.0,849.7 L1155.6,848.8 L1161.2,847.9 L1166.8,846.9 L1172.4,845.9 L1178.0,844.8 L1183.6,843.7 L1189.2,842.5 L1194.8,841.2 L1200.4,839.9 L1206.0,838.5 L1211.6,837.1 L1217.2,835.6 L1222.8,834.1 L1228.4,832.5 L1234.0,830.8 L1239.6,829.0 L1245.2,827.2 L1250.8,825.3 L1256.4,823.4 L1262.0,821.3 L1267.6,819.2 L1273.2,817.0 L1278.8,814.8 L1284.4,812.5 L1290.0,810.0 L1295.6,807.5 L1301.2,805.0 L1306.8,802.3 L1312.4,799.6 L1318.0,796.7 L1323.6,793.8 L1329.2,790.8 L1334.8,787.7 L1340.4,784.6 L1346.0,781.3 L1351.6,777.9 L1357.2,774.4 L1362.8,770.9 L1368.4,767.2 L1374.0,763.5 L1379.6,759.6 L1385.2,755.7 L1390.8,751.6 L1396.4,747.4 L1402.0,743.2 L1407.6,738.8 L1413.2,734.3 L1418.8,729.7 L1424.4,725.0 L1430.0,720.2 L1435.6,715.3 L1441.2,710.3 L1446.8,705.1 L1452.4,699.8 L1458.0,694.4 L1463.6,688.9 L1469.2,683.3 L1474.8,677.5 L1480.4,671.6 L1486.0,665.6 L1491.6,659.5 L1497.2,653.3 L1502.8,646.9 L1508.4,640.4 L1514.0,633.7 L1519.6,626.9 L1525.2,620.0 L1530.8,613.0 L1536.4,605.8 L1542.0,598.4 L1547.6,591.0 L1553.2,583.4 L1558.8,575.6 L1564.4,567.7 L1570.0,559.7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1072.2" y1="860.0" x2="1072.2" y2="866.0" stroke="currentColor" stroke-width="0.8"/>
+<text x="1072.2222222222222" y="880" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="currentColor">1</text>
+<line x1="1196.7" y1="860.0" x2="1196.7" y2="866.0" stroke="currentColor" stroke-width="0.8"/>
+<text x="1196.6666666666667" y="880" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="currentColor">2</text>
+<line x1="1321.1" y1="860.0" x2="1321.1" y2="866.0" stroke="currentColor" stroke-width="0.8"/>
+<text x="1321.111111111111" y="880" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="currentColor">3</text>
+<line x1="1445.6" y1="860.0" x2="1445.6" y2="866.0" stroke="currentColor" stroke-width="0.8"/>
+<text x="1445.5555555555557" y="880" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="currentColor">4</text>
+<line x1="1570.0" y1="860.0" x2="1570.0" y2="866.0" stroke="currentColor" stroke-width="0.8"/>
+<text x="1570.0" y="880" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="currentColor">5</text>
+<line x1="1004.0" y1="793.0" x2="1010.0" y2="793.0" stroke="currentColor" stroke-width="0.8"/>
+<text x="1000" y="797.0357142857142" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="currentColor">5</text>
+<line x1="1004.0" y1="726.1" x2="1010.0" y2="726.1" stroke="currentColor" stroke-width="0.8"/>
+<text x="1000" y="730.0714285714286" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="currentColor">10</text>
+<line x1="1004.0" y1="659.1" x2="1010.0" y2="659.1" stroke="currentColor" stroke-width="0.8"/>
+<text x="1000" y="663.1071428571429" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="currentColor">15</text>
+<line x1="1004.0" y1="592.1" x2="1010.0" y2="592.1" stroke="currentColor" stroke-width="0.8"/>
+<text x="1000" y="596.1428571428571" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="currentColor">20</text>
+<text x="1570" y="896" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="currentColor">U, m/s</text>
+<text x="90" y="985" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="currentColor">Comments:</text>
+<text x="90" y="1007" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  Power rises with the cube of speed: doubling the current gives eight times the power per square metre.</text>
+<text x="90" y="1025" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  The ten test speeds are the laboratory and field matrix for the prototype programme with AetherFab at the University of Melbourne.</text>
+<text x="90" y="1043" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  Wind comparison uses the same Cp for both machines and is illustrative only.</text>
+</svg>

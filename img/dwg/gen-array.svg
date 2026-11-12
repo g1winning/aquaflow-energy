@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1684 1191" width="1684" height="1191" style="color:#A9C5DB">
+<text x="72" y="104" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="41" fill="currentColor">Tidal entrance array – plan of four units and cable to shore</text>
+<rect x="70" y="150" width="1544" height="955" fill="none" stroke="currentColor" stroke-width="1.6"/>
+<line x1="70" y1="206" x2="1614" y2="206" stroke="currentColor" stroke-width="1.4"/>
+<line x1="70" y1="950" x2="1614" y2="950" stroke="currentColor" stroke-width="1.4"/>
+<text x="104" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">20</text>
+<text x="196" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">Array Plan – Four 250 kW Units in a Tidal Channel, 1 MW</text>
+<text x="1150" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">REV B</text>
+<text x="1330" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">AQUA FLOW ENERGY</text>
+<text x="1612" y="1088" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="15" font-weight="normal" text-anchor="end" fill="currentColor">INDICATIVE ARTIST'S ILLUSTRATION – NOT TO SCALE</text>
+<text x="1612" y="1064" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="currentColor">Dimensions to be confirmed by survey and detailed design</text>
+<path d="M100,300 C400,260 700,330 1000,290 S1400,260 1600,300" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100,860 C400,900 700,830 1000,870 S1400,900 1600,860" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="120.0" y1="280.0" x2="108.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="120.0" y1="880.0" x2="108.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="180.0" y1="280.0" x2="168.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="180.0" y1="880.0" x2="168.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="240.0" y1="280.0" x2="228.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="240.0" y1="880.0" x2="228.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="300.0" y1="280.0" x2="288.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="300.0" y1="880.0" x2="288.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="360.0" y1="280.0" x2="348.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="360.0" y1="880.0" x2="348.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="420.0" y1="280.0" x2="408.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="420.0" y1="880.0" x2="408.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="480.0" y1="280.0" x2="468.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="480.0" y1="880.0" x2="468.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="540.0" y1="280.0" x2="528.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="540.0" y1="880.0" x2="528.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="600.0" y1="280.0" x2="588.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="600.0" y1="880.0" x2="588.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="660.0" y1="280.0" x2="648.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="660.0" y1="880.0" x2="648.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="720.0" y1="280.0" x2="708.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="720.0" y1="880.0" x2="708.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="780.0" y1="280.0" x2="768.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="780.0" y1="880.0" x2="768.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="840.0" y1="280.0" x2="828.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="840.0" y1="880.0" x2="828.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="900.0" y1="280.0" x2="888.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="900.0" y1="880.0" x2="888.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="960.0" y1="280.0" x2="948.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="960.0" y1="880.0" x2="948.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1020.0" y1="280.0" x2="1008.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1020.0" y1="880.0" x2="1008.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1080.0" y1="280.0" x2="1068.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1080.0" y1="880.0" x2="1068.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1140.0" y1="280.0" x2="1128.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1140.0" y1="880.0" x2="1128.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1200.0" y1="280.0" x2="1188.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1200.0" y1="880.0" x2="1188.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1260.0" y1="280.0" x2="1248.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1260.0" y1="880.0" x2="1248.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1320.0" y1="280.0" x2="1308.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1320.0" y1="880.0" x2="1308.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1380.0" y1="280.0" x2="1368.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1380.0" y1="880.0" x2="1368.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1440.0" y1="280.0" x2="1428.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1440.0" y1="880.0" x2="1428.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1500.0" y1="280.0" x2="1488.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1500.0" y1="880.0" x2="1488.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1560.0" y1="280.0" x2="1548.0" y2="270.0" stroke="currentColor" stroke-width="0.6"/>
+<line x1="1560.0" y1="880.0" x2="1548.0" y2="890.0" stroke="currentColor" stroke-width="0.6"/>
+<text x="110" y="250" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="currentColor">NORTH SPIT</text>
+<text x="110" y="925" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="currentColor">SOUTH SPIT</text>
+<circle cx="420.0" cy="550.0" r="60.0" fill="none" stroke="currentColor" stroke-width="1.3"/>
+<circle cx="420.0" cy="550.0" r="8.0" fill="none" stroke="currentColor" stroke-width="1.0"/>
+<rect x="410.0" y="450.0" width="20.0" height="40.0" fill="none" stroke="currentColor" stroke-width="1.0"/>
+<text x="420.0" y="632.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="currentColor">U-01  250 kW</text>
+<line x1="420.0" y1="420.0" x2="420.0" y2="420.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="708.0" y1="420.0" x2="708.0" y2="420.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="420.0" y1="420.0" x2="708.0" y2="420.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="416.0" y1="424.0" x2="424.0" y2="416.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="704.0" y1="424.0" x2="712.0" y2="416.0" stroke="currentColor" stroke-width="1.1"/>
+<text x="564.0" y="424.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="currentColor">3 D</text>
+<circle cx="708.0" cy="610.0" r="60.0" fill="none" stroke="currentColor" stroke-width="1.3"/>
+<circle cx="708.0" cy="610.0" r="8.0" fill="none" stroke="currentColor" stroke-width="1.0"/>
+<rect x="698.0" y="510.0" width="20.0" height="40.0" fill="none" stroke="currentColor" stroke-width="1.0"/>
+<text x="708.0" y="692.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="currentColor">U-02  250 kW</text>
+<line x1="708.0" y1="420.0" x2="708.0" y2="420.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="996.0" y1="420.0" x2="996.0" y2="420.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="708.0" y1="420.0" x2="996.0" y2="420.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="704.0" y1="424.0" x2="712.0" y2="416.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="992.0" y1="424.0" x2="1000.0" y2="416.0" stroke="currentColor" stroke-width="1.1"/>
+<text x="852.0" y="424.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="currentColor">3 D</text>
+<circle cx="996.0" cy="550.0" r="60.0" fill="none" stroke="currentColor" stroke-width="1.3"/>
+<circle cx="996.0" cy="550.0" r="8.0" fill="none" stroke="currentColor" stroke-width="1.0"/>
+<rect x="986.0" y="450.0" width="20.0" height="40.0" fill="none" stroke="currentColor" stroke-width="1.0"/>
+<text x="996.0" y="632.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="currentColor">U-03  250 kW</text>
+<line x1="996.0" y1="420.0" x2="996.0" y2="420.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="1284.0" y1="420.0" x2="1284.0" y2="420.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="996.0" y1="420.0" x2="1284.0" y2="420.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="992.0" y1="424.0" x2="1000.0" y2="416.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="1280.0" y1="424.0" x2="1288.0" y2="416.0" stroke="currentColor" stroke-width="1.1"/>
+<text x="1140.0" y="424.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="currentColor">3 D</text>
+<circle cx="1284.0" cy="610.0" r="60.0" fill="none" stroke="currentColor" stroke-width="1.3"/>
+<circle cx="1284.0" cy="610.0" r="8.0" fill="none" stroke="currentColor" stroke-width="1.0"/>
+<rect x="1274.0" y="510.0" width="20.0" height="40.0" fill="none" stroke="currentColor" stroke-width="1.0"/>
+<text x="1284.0" y="692.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="currentColor">U-04  250 kW</text>
+<path d="M420,520 L420,470 L1380,470 L1380,330" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 5"/>
+<text x="900" y="462" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="currentColor">ARRAY CABLE – buried, to shore riser</text>
+<rect x="1340.0" y="290.0" width="80.0" height="40.0" fill="none" stroke="currentColor" stroke-width="1.2"/>
+<text x="1380" y="282" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="currentColor">SWITCHGEAR</text>
+<line x1="180.0" y1="520.0" x2="300.0" y2="520.0" stroke="currentColor" stroke-width="1.2"/>
+<line x1="300.0" y1="520.0" x2="291.8" y2="523.7" stroke="currentColor" stroke-width="1.2"/>
+<line x1="300.0" y1="520.0" x2="291.8" y2="516.3" stroke="currentColor" stroke-width="1.2"/>
+<line x1="180.0" y1="640.0" x2="300.0" y2="640.0" stroke="currentColor" stroke-width="1.2"/>
+<line x1="300.0" y1="640.0" x2="291.8" y2="643.7" stroke="currentColor" stroke-width="1.2"/>
+<line x1="300.0" y1="640.0" x2="291.8" y2="636.3" stroke="currentColor" stroke-width="1.2"/>
+<text x="180" y="500" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">FLOOD  1.7 m/s</text>
+<line x1="1500.0" y1="700.0" x2="1380.0" y2="700.0" stroke="currentColor" stroke-width="1.2"/>
+<line x1="1380.0" y1="700.0" x2="1388.2" y2="696.3" stroke="currentColor" stroke-width="1.2"/>
+<line x1="1380.0" y1="700.0" x2="1388.2" y2="703.7" stroke="currentColor" stroke-width="1.2"/>
+<line x1="1500.0" y1="760.0" x2="1380.0" y2="760.0" stroke="currentColor" stroke-width="1.2"/>
+<line x1="1380.0" y1="760.0" x2="1388.2" y2="756.3" stroke="currentColor" stroke-width="1.2"/>
+<line x1="1380.0" y1="760.0" x2="1388.2" y2="763.7" stroke="currentColor" stroke-width="1.2"/>
+<text x="1500" y="790" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="end" fill="currentColor">EBB  1.6 m/s</text>
+<text x="1380" y="250" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">SHORE</text>
+<path d="M120,400 C500,380 900,415 1580,400" fill="none" stroke="currentColor" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 6"/>
+<text x="1585" y="404" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="currentColor">5 m</text>
+<path d="M120,480 C500,460 900,495 1580,480" fill="none" stroke="currentColor" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 6"/>
+<text x="1585" y="484" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="currentColor">10 m</text>
+<path d="M120,560 C500,540 900,575 1580,560" fill="none" stroke="currentColor" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 6"/>
+<text x="1585" y="564" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="currentColor">15 m</text>
+<path d="M120,700 C500,680 900,715 1580,700" fill="none" stroke="currentColor" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 6"/>
+<text x="1585" y="704" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="currentColor">10 m</text>
+<path d="M120,780 C500,760 900,795 1580,780" fill="none" stroke="currentColor" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 6"/>
+<text x="1585" y="784" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="currentColor">5 m</text>
+<rect x="100.0" y="200.0" width="1500.0" height="50.0" fill="none" stroke="currentColor" stroke-width="0.8" stroke-dasharray="12 6"/>
+<text x="850" y="230" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="currentColor">SHIPPING LANE – units kept clear</text>
+<rect x="1180.0" y="905.0" width="40.0" height="8.0" fill="currentColor" stroke="currentColor" stroke-width="0.8"/>
+<rect x="1220.0" y="905.0" width="40.0" height="8.0" fill="none" stroke="currentColor" stroke-width="0.8"/>
+<rect x="1260.0" y="905.0" width="40.0" height="8.0" fill="currentColor" stroke="currentColor" stroke-width="0.8"/>
+<rect x="1300.0" y="905.0" width="40.0" height="8.0" fill="none" stroke="currentColor" stroke-width="0.8"/>
+<text x="1180" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">0</text>
+<text x="1220" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">25</text>
+<text x="1260" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">50</text>
+<text x="1300" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">75</text>
+<text x="1340" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">100</text>
+<text x="1364" y="913" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="currentColor">metres</text>
+<text x="1430" y="640" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="16" font-weight="normal" text-anchor="middle" fill="currentColor">N</text>
+<line x1="1430.0" y1="700.0" x2="1430.0" y2="655.0" stroke="currentColor" stroke-width="1.4"/>
+<line x1="1430.0" y1="655.0" x2="1433.7" y2="663.2" stroke="currentColor" stroke-width="1.4"/>
+<line x1="1430.0" y1="655.0" x2="1426.3" y2="663.2" stroke="currentColor" stroke-width="1.4"/>
+<text x="90" y="985" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="currentColor">Comments:</text>
+<text x="90" y="1007" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  Spacing about three diameters across the channel and staggered so each unit sees clean water on both tides.</text>
+<text x="90" y="1025" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  Tide runs about 20 hours in 24; slack water 20 to 30 minutes at each turn, covered by a second entrance or a small battery.</text>
+<text x="90" y="1043" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  Drift survey by boat sets the layout: a buoy for direction, GPS drift for speed, 100 m in 60 s ≈ 1.7 m/s.</text>
+<text x="90" y="1061" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  Units sit below 5 m, clear of the lane; divers service from a workboat every six months.</text>
+</svg>

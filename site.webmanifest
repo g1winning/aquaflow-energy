@@ -1,0 +1,14 @@
+{
+  "name": "AquaFlow Energy",
+  "short_name": "AquaFlow",
+  "description": "Turbines that make electricity 24/7 from moving water in rivers and the sea.",
+  "start_url": "./",
+  "display": "browser",
+  "theme_color": "#1F3039",
+  "background_color": "#16242C",
+  "icons": [
+    { "src": "img/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

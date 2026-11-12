@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1684 1191" width="1684" height="1191" style="color:#A9C5DB">
+<text x="72" y="104" font-family="Palatino,'Palatino Linotype','URW Palladio L',Georgia,serif" font-size="41" fill="currentColor">Ducted rotor – shroud section, inlet screen and flow acceleration</text>
+<rect x="70" y="150" width="1544" height="955" fill="none" stroke="currentColor" stroke-width="1.6"/>
+<line x1="70" y1="206" x2="1614" y2="206" stroke="currentColor" stroke-width="1.4"/>
+<line x1="70" y1="950" x2="1614" y2="950" stroke="currentColor" stroke-width="1.4"/>
+<text x="104" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">18</text>
+<text x="196" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">Duct and Shroud – Section on Centreline, 250 kW River Unit</text>
+<text x="1150" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">REV B</text>
+<text x="1330" y="187" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="currentColor">AQUA FLOW ENERGY</text>
+<text x="1612" y="1088" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="15" font-weight="normal" text-anchor="end" fill="currentColor">INDICATIVE ARTIST'S ILLUSTRATION – NOT TO SCALE</text>
+<text x="1612" y="1064" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="currentColor">Dimensions to be confirmed by survey and detailed design</text>
+<text x="700" y="262" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="currentColor">SECTION A–A</text>
+<path d="M280,310 C400,320 500,370 580,390 L780,390 C900,385 1020,330 1120,290" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M280,810 C400,800 500,750 580,730 L780,730 C900,735 1020,790 1120,830" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M280,324 C400,334 500,384 580,404 L780,404 C900,399 1020,344 1120,304" fill="none" stroke="currentColor" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M280,796 C400,786 500,736 580,716 L780,716 C900,721 1020,776 1120,816" fill="none" stroke="currentColor" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="680.0" y1="404.0" x2="680.0" y2="716.0" stroke="currentColor" stroke-width="2.2"/>
+<rect x="660.0" y="520.0" width="40.0" height="80.0" fill="none" stroke="currentColor" stroke-width="1.3"/>
+<line x1="700.0" y1="560.0" x2="960.0" y2="560.0" stroke="currentColor" stroke-width="2.0"/>
+<rect x="960.0" y="490.0" width="140.0" height="140.0" fill="none" stroke="currentColor" stroke-width="1.3"/>
+<text x="1030" y="660" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">POD</text>
+<line x1="300.0" y1="334.0" x2="340.0" y2="346.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="378.0" x2="340.0" y2="390.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="422.0" x2="340.0" y2="434.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="466.0" x2="340.0" y2="478.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="510.0" x2="340.0" y2="522.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="554.0" x2="340.0" y2="566.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="598.0" x2="340.0" y2="610.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="642.0" x2="340.0" y2="654.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="686.0" x2="340.0" y2="698.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="730.0" x2="340.0" y2="742.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="300.0" y1="774.0" x2="340.0" y2="786.0" stroke="currentColor" stroke-width="0.9"/>
+<text x="320" y="270" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">INLET SCREEN – 150 mm bars, raked</text>
+<line x1="140.0" y1="440.0" x2="230.0" y2="440.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="230.0" y1="440.0" x2="221.8" y2="443.7" stroke="currentColor" stroke-width="1.1"/>
+<line x1="230.0" y1="440.0" x2="221.8" y2="436.3" stroke="currentColor" stroke-width="1.1"/>
+<line x1="140.0" y1="520.0" x2="230.0" y2="520.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="230.0" y1="520.0" x2="221.8" y2="523.7" stroke="currentColor" stroke-width="1.1"/>
+<line x1="230.0" y1="520.0" x2="221.8" y2="516.3" stroke="currentColor" stroke-width="1.1"/>
+<line x1="140.0" y1="600.0" x2="230.0" y2="600.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="230.0" y1="600.0" x2="221.8" y2="603.7" stroke="currentColor" stroke-width="1.1"/>
+<line x1="230.0" y1="600.0" x2="221.8" y2="596.3" stroke="currentColor" stroke-width="1.1"/>
+<line x1="140.0" y1="680.0" x2="230.0" y2="680.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="230.0" y1="680.0" x2="221.8" y2="683.7" stroke="currentColor" stroke-width="1.1"/>
+<line x1="230.0" y1="680.0" x2="221.8" y2="676.3" stroke="currentColor" stroke-width="1.1"/>
+<text x="140" y="410" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">U∞ = 2.0 m/s</text>
+<line x1="1140.0" y1="416.0" x2="1240.0" y2="398.0" stroke="currentColor" stroke-width="1.0"/>
+<line x1="1240.0" y1="398.0" x2="1232.6" y2="403.1" stroke="currentColor" stroke-width="1.0"/>
+<line x1="1240.0" y1="398.0" x2="1231.3" y2="395.8" stroke="currentColor" stroke-width="1.0"/>
+<line x1="1140.0" y1="560.0" x2="1240.0" y2="560.0" stroke="currentColor" stroke-width="1.0"/>
+<line x1="1240.0" y1="560.0" x2="1231.8" y2="563.7" stroke="currentColor" stroke-width="1.0"/>
+<line x1="1240.0" y1="560.0" x2="1231.8" y2="556.3" stroke="currentColor" stroke-width="1.0"/>
+<line x1="1140.0" y1="704.0" x2="1240.0" y2="722.0" stroke="currentColor" stroke-width="1.0"/>
+<line x1="1240.0" y1="722.0" x2="1231.3" y2="724.2" stroke="currentColor" stroke-width="1.0"/>
+<line x1="1240.0" y1="722.0" x2="1232.6" y2="716.9" stroke="currentColor" stroke-width="1.0"/>
+<text x="1140" y="780" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="currentColor">DIFFUSER – pressure recovery</text>
+<text x="680" y="360" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="middle" fill="currentColor">THROAT  U ≈ 1.4 · U∞</text>
+<line x1="580.0" y1="390.0" x2="580.0" y2="367.5" stroke="currentColor" stroke-width="0.8"/>
+<line x1="780.0" y1="390.0" x2="780.0" y2="367.5" stroke="currentColor" stroke-width="0.8"/>
+<line x1="580.0" y1="372.0" x2="780.0" y2="372.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="576.0" y1="376.0" x2="584.0" y2="368.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="776.0" y1="376.0" x2="784.0" y2="368.0" stroke="currentColor" stroke-width="1.1"/>
+<text x="680.0" y="366.1" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="currentColor">1 200 throat</text>
+<line x1="280.0" y1="310.0" x2="242.5" y2="310.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="280.0" y1="810.0" x2="242.5" y2="810.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="250.0" y1="310.0" x2="250.0" y2="810.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="246.0" y1="314.0" x2="254.0" y2="306.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="246.0" y1="814.0" x2="254.0" y2="806.0" stroke="currentColor" stroke-width="1.1"/>
+<text x="233.5" y="564.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="currentColor" transform="rotate(90.0 233.5 564.0)">Ø 3 000 inlet</text>
+<line x1="1120.0" y1="290.0" x2="1157.5" y2="290.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="1120.0" y1="830.0" x2="1157.5" y2="830.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="1150.0" y1="290.0" x2="1150.0" y2="830.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="1146.0" y1="294.0" x2="1154.0" y2="286.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="1146.0" y1="834.0" x2="1154.0" y2="826.0" stroke="currentColor" stroke-width="1.1"/>
+<text x="1166.5" y="564.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="currentColor" transform="rotate(90.0 1166.5 564.0)">Ø 3 200 outlet</text>
+<line x1="280.0" y1="890.0" x2="280.0" y2="890.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="1120.0" y1="890.0" x2="1120.0" y2="890.0" stroke="currentColor" stroke-width="0.8"/>
+<line x1="280.0" y1="890.0" x2="1120.0" y2="890.0" stroke="currentColor" stroke-width="0.9"/>
+<line x1="276.0" y1="894.0" x2="284.0" y2="886.0" stroke="currentColor" stroke-width="1.1"/>
+<line x1="1116.0" y1="894.0" x2="1124.0" y2="886.0" stroke="currentColor" stroke-width="1.1"/>
+<text x="700.0" y="894.0" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="currentColor">4 200 overall</text>
+<rect x="1180.0" y="905.0" width="60.0" height="8.0" fill="currentColor" stroke="currentColor" stroke-width="0.8"/>
+<rect x="1240.0" y="905.0" width="60.0" height="8.0" fill="none" stroke="currentColor" stroke-width="0.8"/>
+<rect x="1300.0" y="905.0" width="60.0" height="8.0" fill="currentColor" stroke="currentColor" stroke-width="0.8"/>
+<rect x="1360.0" y="905.0" width="60.0" height="8.0" fill="none" stroke="currentColor" stroke-width="0.8"/>
+<text x="1180" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">0</text>
+<text x="1240" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">0.5</text>
+<text x="1300" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">1</text>
+<text x="1360" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">1.5</text>
+<text x="1420" y="899" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="currentColor">2</text>
+<text x="1444" y="913" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="currentColor">metres</text>
+<text x="90" y="985" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="currentColor">Materials / comments:</text>
+<text x="90" y="1007" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  Shroud: rolled recycled-polymer panels on a stainless ring frame; bolted segments for container shipping.</text>
+<text x="90" y="1025" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  The converging inlet raises throat speed about 1.4×, which the cube law turns into roughly 2.7× the power per m² of rotor.</text>
+<text x="90" y="1043" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  Screen bars keep fish and flotsam out of the blade zone; spacing set with the fisheries regulator during trials.</text>
+<text x="90" y="1061" font-family="Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="12.5" font-weight="normal" text-anchor="start" fill="currentColor">–  Duct also carries the unit's lifting points and the clamps for pylon or leg mounting.</text>
+</svg>
