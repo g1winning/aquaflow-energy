@@ -1,6 +1,5 @@
 # AquaFlow Energy
 User-agent: *
 Allow: /
-Disallow: /index.original.html
 
 Sitemap: https://www.aquaflowenergy.com/sitemap.xml
