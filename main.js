@@ -104,7 +104,7 @@
     low:   {r3:278, r5:2335, e5:1095, c5:997,  s:['Only the first 50 MW in year three','The balance of the units falls in years four and five','Before interest, tax and depreciation','Peak funding need US$3.5M, inside year one'],
             note:'Low case: the first 50 MW, the part the plan calls very likely, is the only delivery in year three; the rest follows in years four and five. These are projections from the plan’s model, not forecasts, and the trials will change them.'},
     base:  {r3:1072,r5:2130, e5:1003, c5:1179, s:['The first 50 MW order is the anchor','Unit sales, batteries, leases, service, licences','Before interest, tax and depreciation','Peak funding need US$3.5M, inside year one'],
-            note:'Base case: 1,320 MW installed by the fifth year, with 200 MW delivered in year three. Data-centre and city units sell at US$5.0M per MW for the first 50 MW, falling to US$3.5M. These are projections from the plan’s model, not forecasts, and the trials will change them.'},
+            note:'Base case: 1,320 MW installed by the fifth year, with 200 MW delivered in year three. Data-centre and city units sell at US$5M per MW for the first 50 MW, falling to US$3.5M. These are projections from the plan’s model, not forecasts, and the trials will change them.'},
     growth:{r3:1574,r5:10963,e5:5428, c5:4504, s:['Sixty cities, each with its own programme','5,000 MW more built by licensees','Before interest, tax and depreciation','Deposits on next year’s orders fund this year’s components'],
             note:'Growth case: sixty cities take up the model, with 5,000 MW built by licensed partners on top of AFE’s own plants. An illustration of scale rather than a forecast. The trials will change every number here.'}
   };
